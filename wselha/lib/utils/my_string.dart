@@ -9,3 +9,11 @@ String validationPassword =
 // String validationNumber = r'(^(?:[+0]9)?[0-9]{10,12}$)';
 
 String validationNumber = r'(?:\+?0*?966)?0?(5[0-9]{8})';
+
+String arabic = 'Arabic 🇸🇦';
+String english = 'English 🇬🇧';
+String france = 'France 🇫🇷';
+
+String ara = 'ar';
+String ene = 'en';
+String frf = 'fr';

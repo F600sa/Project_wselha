@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140975787490",
+    "project_id": "wselha-58f90",
+    "storage_bucket": "wselha-58f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140975787490:android:6e44011a3d6bb696947dbb",
+        "android_client_info": {
+          "package_name": "com.example.wselha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140975787490-jra82fa737f7q0psnrjrhjbql6mlaahh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChOejgNAG43xkFc6G0tZZXnlSAmGuUIYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140975787490-jra82fa737f7q0psnrjrhjbql6mlaahh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
